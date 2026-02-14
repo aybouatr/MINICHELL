@@ -17,9 +17,6 @@ A lightweight UNIX shell implementation in C, replicating the core functionality
 
 MINICHELL is a 42 school project that implements a simple shell (command-line interpreter) similar to bash. The shell reads and executes commands, manages environment variables, handles redirections and pipes, and implements several built-in commands.
 
-## MINISHELL by 
-ayoub bouatrouss & othman-achbani
-
 ## ✨ Features
 
 - **Interactive Command Prompt**: Displays `-> minishell` prompt for user input
@@ -209,7 +206,7 @@ The project implements a custom garbage collector to prevent memory leaks:
 ## 👥 Contributors
 
 - [@aybouatr](https://github.com/aybouatr)
-- [@oachbani](https://github.com/oachbani) (oachbani@student.1337.ma)
+- [@oachbani](https://github.com/oachbani)
 
 ## 📝 Notes
 
